@@ -1,0 +1,12 @@
+table {
+  margin: auto;
+  border-collapse: collapse;
+  flex-grow: 1;
+
+  th,
+  td {
+    border: 1px solid #000;
+    padding: 8px 18px;
+    text-align: center;
+  }
+}
